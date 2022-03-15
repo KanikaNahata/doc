@@ -12,7 +12,7 @@ folder: beast/programs
 
 ## SPREAD4
 
-SPREAD4 (Spatial Phylogenetic Reconstruction of Evolutionary Dynamics 4) is a major update to [SPREAD](spread) and [SpreaD3](spread3) and constitutes a package for analysis and visualisation of pathogen pylodynamic reconstructions.
+SPREAD4 (Spatial Phylogenetic Reconstruction of Evolutionary Dynamics 4) is a major update to [SPREAD](spread) and [SpreaD3](spread3) and constitutes a package for analysis and visualization of pathogen phylogeographic reconstructions.
 
 ### Using SPREAD4
 
@@ -24,16 +24,40 @@ SPREAD4 is compatible with popular browsers (Chrome, Firefox, Safari, Edge).
 
 ### Frequently asked questions
 
-- I do have a locations file, where do I download it from?
-- How do I save my custom visualisation(s)?
-- How can I share my visualisations with others?
-- How do I change the colour of transitions from solid to a gradient ?
-- Why can I not see the transitions ?
-- How do I upload my own map ?
-- Where can I find such a map?
-- Why are my map locations inverted in the visualization?
-- How do I view my transitions as missiles ?
--
+1. I do not have a locations file, where do I download it from? \
+A:  https://geojson-maps.ash.ms/
+
+2. How do I save my custom visualization(s)? \
+A. Any custom visualization can be exported as a Scalable Vector Graphics (SVG) file that can be used for publication-ready figures. 
+
+[comment]: <> (A. not sure if you can store the visualized after customizing online in SPREAD... )
+
+3. How can I share my visualizations with others? \
+
+A. 
+
+5. Why can I not see the transitions ? \
+A. 
+
+
+5. How do I change the colour of transitions from solid to a gradient ? \
+A. 
+
+
+6. How do I upload my own map ? \
+A. 
+
+7. Where can I find such a map? \ 
+A. https://geojson-maps.ash.ms/
+
+9. Why are my map locations inverted in the visualization? \
+A. Longitude is X axis and Latitude is the Y-axis
+
+10. How do I view my transitions as missiles ? \
+A. When the transition drop-down is viewed, toggle `missiles` to the right to view transitions as missiles. 
+
+11. \
+A.
 
 
 ### Citing SPREAD4
