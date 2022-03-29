@@ -24,40 +24,55 @@ SPREAD4 is compatible with popular browsers (Chrome, Firefox, Safari, Edge).
 
 ### Frequently asked questions
 
-1. I do not have a locations file, where do I download it from? \
-A:  https://geojson-maps.ash.ms/
+1. Where can I see my uploaded files?
+A. 
 
 2. How do I save my custom visualization(s)? \
-A. Any custom visualization can be exported as a Scalable Vector Graphics (SVG) file that can be used for publication-ready figures. 
+A. Any custom visualization can be exported as a Scalable Vector Graphics (SVG) file that can be used for publication-ready figures.
 
-[comment]: <> (A. not sure if you can store the visualized after customizing online in SPREAD... )
+[comment]: <> (not sure if you can store the visualizations after customizing them online in SPREAD... I do not think so)
 
 3. How can I share my visualizations with others? \
-
 A. 
 
-5. Why can I not see the transitions ? \
+4. What do you mean by a discrete rate visualization? What files do I need to have for such a visualization? \
+A.
+
+5. What do you mean by a discrete MCC visualization? What files do I need to have for such a visualization? \
 A. 
 
-
-5. How do I change the colour of transitions from solid to a gradient ? \
+6. What do you mean by a continuous MCC visualization? What files do I need to have for such a visualization? \
 A. 
 
+7. I do not have a locations file, where do I download it from? \
+A:  https://geojson-maps.ash.ms/ + centroid calculation using GeoJSON parsing packages in Python/R 
 
-6. How do I upload my own map ? \
+8. I entered the wrong information for the most recent sampling date. What do I do? \
+A.
+
+9. I entered the wrong information for the locations. What do I do? \
 A. 
 
-7. Where can I find such a map? \ 
+10. Why can I not see the transitions ? \
+A.
+
+11. How do I change the colour of transitions from solid to a gradient ? \
+A. 
+
+12. How do I upload my own map ? \
+A. 
+
+13. Where can I find such a map? \ 
 A. https://geojson-maps.ash.ms/
 
-9. Why are my map locations inverted in the visualization? \
+14. Why are my map locations inverted in the visualization? \
 A. Longitude is X axis and Latitude is the Y-axis
 
-10. How do I view my transitions as missiles ? \
+15. How do I view my transitions as missiles ? \
 A. When the transition drop-down is viewed, toggle `missiles` to the right to view transitions as missiles. 
 
-11. \
-A.
+16. I did not receive an email to log in to SPREAD. What do I do? \
+A. SPREAD log in email could be treated as [SPAM?] by firewalls so make sure you check your junk/spam folder.
 
 
 ### Citing SPREAD4
